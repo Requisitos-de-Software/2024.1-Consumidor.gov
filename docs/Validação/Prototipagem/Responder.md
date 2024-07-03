@@ -6,7 +6,7 @@ A prototipação é uma técnica que consiste em desenvolver uma representação
 
 ## Requisitos analisados
 
-Seguindo a lista de [Requisitos Elicitado](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/), este protótipo busca atender aos requisitos **RF19, RF20, RF21, RF22** e **RF23**, os quais podem ser vistos na tabela 1 abaixo:
+Seguindo a lista de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/), este protótipo busca atender aos requisitos **RF19, RF20, RF21, RF22** e **RF23**, os quais podem ser vistos na tabela 1 abaixo:
 
 | Requisito | Descrição |
 | :-------: | :-------: |
@@ -29,7 +29,7 @@ O protótipo, desenvolvido com o uso da ferramenta [Figma](https://requisitos-de
   
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="834" height="1194" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDK5hEGNw7fSRsQPwzz15Pv%2FReclama%25C3%25A7%25C3%25B5es-EMPRESA%3Fnode-id%3D30-111%26t%3DbawDKX4jJmGVh9p3-1%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D30%253A111" allowfullscreen></iframe>
 
-<p> <b>Protótipo de alta fildelidade</b>: Protótipo de alta fildelidade (Autor: GALDINO, Henrique. 2024).</p>
+<p> <b>Protótipo de alta fidelidade</b>: (Autor: GALDINO, Henrique. 2024).</p>
 
 #### Validação com cliente
 A tabela 2 a seguir informa os dados avaliação e validação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.
