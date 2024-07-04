@@ -99,9 +99,9 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 
 ## Bibliografia
 
-[1] PAGANINI, Diogo. Técnicas para Elicitação de Requisitos, 2019. Disponível em: <https://pt.linkedin.com/pulse/.técnicas-para-elicitação-de-requisitos-diogo-paganini>
+[1] PAGANINI, Diogo. Técnicas para Elicitação de Requisitos, 2019. 
 
-[2] PUC-Rio. Elicitação de Requisitos, acesso em 12 de abril de 2024. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>.
+[2] PUC-Rio. Elicitação de Requisitos, acesso em 12 de abril de 2024. 
 
 ## Histórico de Versão
 
