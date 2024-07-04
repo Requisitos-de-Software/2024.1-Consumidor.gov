@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A verificação é uma etapa crucial no desenvolvimento de projetos, visando analisar e avaliar os artefatos desenvolvidos dentro dos mesmos, observando se estão de acordo com o modelo esperado [¹](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verificação/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/planejamento/#anchor_1). Este artefato contém a verificação do planejamento desenvolvido para entrega 1 do [grupo 1 (Diário Oficial da União)](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/), no caso a [Rich Picture](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pre-rastreabilidade/rich-picture/).
+A verificação é uma etapa crucial no desenvolvimento de projetos, visando analisar e avaliar os artefatos desenvolvidos dentro dos mesmos, observando se estão de acordo com o modelo esperado [¹](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verificação/Grupo%201%20-%20DOU/Entrega%203%20-%20Modelagem/planejamento/#anchor_1). Este artefato contém a verificação do planejamento desenvolvido para entrega 1 do [Grupo 8 (Consumidor.gov)](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/), no caso a [Rich Picture](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pr%C3%A9%20Rastreabilidade/rich-picture/).
 
 ## Objetivos
 
@@ -21,22 +21,22 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 ## Objetos de Verificação
 
-- [Perfil de Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/)
+- [Rich Picture](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pr%C3%A9%20Rastreabilidade/rich-picture/)
 
 ## Checklists
 
 ### Checklist da Rich Picture
 
-| ID | Descrição | Verificação | Observação | 
-| :--: | :-----: | :---------: | :--------: | 
-| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | SIM | - | 
-| 6 | Há a presença dos 5 principais componentes de um Richpicture? | SIM | - | 
-| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | SIM | - | 
-| 8 | O componente Fluxo está sendo aplicado da maneira correta? | SIM | - | 
-| 9 | O componente Atores está empregado de maneira apropriada no artefato? | SIM | - | 
-| 10 | O componente Operações está sendo empregado corretamente? | SIM | - |  
-| 11 | O rich picture passa uma mensagem de forma efetiva? | SIM | - | 
-| 12 | O rich picture consegue contar uma história de maneira eficiente?  | SIM | - | 
+| ID | Descrição | 
+| :--: | :-----: | 
+| 5 | O(s) Ator(es) do RichPicture, está do lado de fora do sistema? | 
+| 6 | Há a presença dos 5 principais componentes de um Richpicture? | 
+| 7 | O componente Fronteira está sendo utilizado de acordo com as diretrizes? | 
+| 8 | O componente Fluxo está sendo aplicado da maneira correta? |
+| 9 | O componente Atores está empregado de maneira apropriada no artefato? | 
+| 10 | O componente Operações está sendo empregado corretamente? | 
+| 11 | O rich picture passa uma mensagem de forma efetiva? | 
+| 12 | O rich picture consegue contar uma história de maneira eficiente? |
 
 
 <div align="center">
@@ -54,7 +54,8 @@ A metodologia utilizada segue até a **Inspeção**, cujo objetivo é averiguar 
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 1   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099)         |
+| 1.1    | 04/07/2024       | 04/07/2024   | Correções gerais   | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
+| 1.0    | 08/06/2024       | 08/06/2024      | Criação do planejamento da verificação entrega 1   | [Henrique Galdino](https://github.com/hgaldino05)   | [Júlio César](https://github.com/Julio1099) |
 
 <div align="center">
 <figcaption align="center">Tabela 02: Histórico de versões (Autor: Henrique Galdino)</figcaption>
