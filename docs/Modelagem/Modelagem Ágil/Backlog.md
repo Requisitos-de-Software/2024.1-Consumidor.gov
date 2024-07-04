@@ -79,7 +79,7 @@
 | RNF10 | O aplicativo deve carregar interfaces e/ou componentes dentro de 20 segundos | [INT](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia) |
 
 <div align="center">
-<p> <b>Tabela 4</b>: Desempenho (Autor: MEISTER, Guilherme 2024). </p>
+<p> <b>Tabela 3</b>: Desempenho (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ### 3.4. Segurança e Privacidade
@@ -90,7 +90,7 @@
 | RNF5 | Todos os dados sensíveis devem ser devidamente protegidos utilizando criptografia |[INT42, INT43](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#requisitos-nao-funcionais); [ADD09, ADD11, ADD13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/)|
 | RNF6 | O aplicativo deve validar a entrada do usuário(gov.br) para prevenção de ataques |[INT13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/introspec/#metodologia); [ADD09, ADD11, ADD13](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/analiseDoc/)|
 <div align="center">
-<p> <b>Tabela 5</b>: Segurança e Privacidade (Autor: MEISTER, Guilherme 2024). </p>
+<p> <b>Tabela 4</b>: Segurança e Privacidade (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 ## Backlog 
@@ -136,7 +136,7 @@
     - Requisitos relacionados: RNF4, RNF5, RNF6
     - Descrição: Este épico aborda os requisitos de segurança e privacidade do Consumidor.gov. Inclui requisitos como gproteger os dados sensíveis do usuário, apresentar medidas de proteção, Fornecimento de informações funcione corretamente.
 
-A tabela 6 abaixo vai relacionar a prioridade de cada história:
+A tabela 5 abaixo vai relacionar a prioridade de cada história:
 
 | História de Usuário | Épico                  | Prioridade |
 |--------------------|------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -159,7 +159,7 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 | US17               | Épico 3   | Could      |
 
 <div align="center">
-<p> <b>Tabela 6</b>: Backlog do produto (Autor: MEISTER, Guilherme 2024). </p>
+<p> <b>Tabela 5</b>: Backlog do produto (Autor: MEISTER, Guilherme 2024). </p>
 </div>
 
 
@@ -172,6 +172,8 @@ A tabela 6 abaixo vai relacionar a prioridade de cada história:
 ## Histórico de Versões
 |   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
 | :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
-| 23/05/2024   |  `1.0`  | Criação do documento               | [Guilherme Meister](https://github.com/gmeister18) | 25/05/2024 | [Matheus Ferreira](https://github.com/) |
+| 04/07/2024   |  `1.2`  | Correção da numeração das tabelas               | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | 04/07/2023 | [Igor Thiago](https://github.com/alladin-51) |
 | 27/05/2024   |  `1.1`  | Atualização do documento               | [Guilherme Meister](https://github.com/gmeister18) | 27/05/2024 | [Matheus Ferreira](https://github.com/) |
+| 23/05/2024   |  `1.0`  | Criação do documento               | [Guilherme Meister](https://github.com/gmeister18) | 25/05/2024 | [Matheus Ferreira](https://github.com/) |
+
 
