@@ -99,15 +99,15 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 
 ## Bibliografia
 
-[1] PAGANINI, Diogo. Técnicas para Elicitação de Requisitos, 2019. Disponível em: [<https://pt.linkedin.com/pulse/técnicas-para-elicitação-de-requisitos-diogo-paganini>](https://pt.linkedin.com/pulse/t%C3%A9cnicas-para-elicita%C3%A7%C3%A3o-de-requisitos-diogo-paganini)
+[1] PAGANINI, Diogo. Técnicas para Elicitação de Requisitos, 2019. Disponível em: <https://pt.linkedin.com/pulse/técnicas-para-elicitação-de-requisitos-diogo-paganini>
 
-[2] PUC-Rio. Elicitação de Requisitos, acesso em 12 de abril de 2024. Disponível em: [<https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF)
+[2] PUC-Rio. Elicitação de Requisitos, acesso em 12 de abril de 2024. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| Versão | Data de execução | Data de revisão |  Descrição  | Autor(es)  | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| `1.5` | 04/07/2024  | 04/07/2024 | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin-51) |
+| `1.5` | 04/07/2024  | 04/07/2024 | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo | [Igor Thiago](https://github.com/alladin-51) |
 | `1.4` | 25/05/2024  | 25/05/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
 | `1.3` | 22/04/2024  | 22/04/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18), [Igor Thiago](https://github.com/alladin-51) |
 | `1.2` | 21/04/2024  | 22/04/2024 | Introspecção de empresa | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
@@ -118,5 +118,4 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 <figcaption align="left">Tabela 4: Histórico de versões (Autor: GALDINO, Henrique 2024)</figcaption>
 </div>
 <br/>
-
 
