@@ -4,10 +4,10 @@
 
 O backlog é um elemento fundamental no desenvolvimento ágil de software, servindo como uma lista dinâmica de tarefas, funcionalidades e requisitos que guiam o progresso do projeto. Sua correta gestão e verificação garantem que todos os itens necessários sejam identificados, priorizados e claramente definidos, assegurando que a equipe de desenvolvimento mantenha o foco nas necessidades mais importantes do cliente.
 
-O objetivo deste documento é realizar a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/">Backlog</a>, desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/">Grupo 1</a>. Esta análise se baseia em critérios estabelecidos, boas práticas e os padrões de documentação ensinados em sala de aula. Utilizamos uma checklist para garantir que todos os aspectos críticos do backlog sejam revisados e atendidos, proporcionando assim uma base sólida para a continuidade do projeto.
+O objetivo deste documento é realizar a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Modelagem/Modelagem%20%C3%81gil/Backlog/">Backlog</a>, desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/">Grupo 8</a>. Esta análise se baseia em critérios estabelecidos, boas práticas e os padrões de documentação ensinados em sala de aula. Utilizamos uma checklist para garantir que todos os aspectos críticos do backlog sejam revisados e atendidos, proporcionando assim uma base sólida para a continuidade do projeto.
 ## Metodologia
 
-A verificação irá investigar se o artefato cumpre com certos requisitos necessários para uma boa construção. A Tabela 1 apresenta esses requisitos e indica se o artefato do <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao">Grupo 1</a> está feito de maneira completa e correta.
+A verificação irá investigar se o artefato cumpre com certos requisitos necessários para uma boa construção. A Tabela 1 apresenta esses requisitos e indica se o artefato do <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/">Grupo 8</a> está feito de maneira completa e correta.
 
 
 ## Conteúdo esperado
@@ -16,7 +16,7 @@ A verificação irá investigar se o artefato cumpre com certos requisitos neces
 
 ### Verificação
 
-Para realizar a verificação do artefato, iremos usar uma adaptação da técnica de inspeção, onde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo <a href="https://github.com/Requisitos-de-Software/2024.1-Grupo01">Grupo 1</a>.
+Para realizar a verificação do artefato, iremos usar uma adaptação da técnica de inspeção, onde teremos um Checklist de verificação para cada etapa do projeto desenvolvida pelo <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/">Grupo 8</a>.
 
 ## Checklist
 
@@ -59,6 +59,7 @@ O artefato apresenta algumas falhas, como a ausência de certos requisitos nas t
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | - | - | - | - | - | - | 
+| 01/07/2024 | `1.2` | Correções gerais | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)   | [Igor Thiago](https://github.com/alladin51)  |
 | 01/07/2024 | `1.1` | Preenchendo checklist | [Henrique Galdino](https://github.com/hgaldino05) | 01/07/2024 | [Guilherme Meister](https://github.com/gmeister18) |
 | 30/06/2024 | `1.0` | Documento criado | [Matheus Ferreira](https://github.com/matferreira1) | 30/06/2024 | [Guilherme Meister](https://github.com/gmeister18) |
 
