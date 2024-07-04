@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém a verificação da versão **1.2** do artefato [Personas]https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/#perfil-do-usuario) desenvolvido pelo [Grupo 08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/), adicionada na data 09/05/2024.
+Este artefato contém a verificação da versão **1.2** do artefato [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/#perfil-do-usuario) desenvolvido pelo [Grupo 08](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/), adicionada na data 09/05/2024.
 
 O checklist foi desenvolvido pelo membro [Igor Thiago](https://github.com/alladin51) e foi preenchido pelo membro [Rodrigo Gontijo](https://github.com/rodrigogontijoo).
 
@@ -58,5 +58,6 @@ A tabela 1 apresenta o checklist de verificação desenvolvido com base no artef
 
 | Versão | Data de execução | Data de revisão |  Descrição                          | Autor(es)                                           | Revisor(es)                                           |
 | :----: | :--------------: | :-------------: | :---------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
+| 1.2    | 04/07/2024       | 04/07/2024      | Correções Ortográficas |  [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
 | 1.1    | 01/07/2024       | 01/07/2024      | Preenchendo checklist Persona  |  [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
 | 1.0    | 01/07/2024       | 01/07/2024      | Criando checklist Persona  |  [Igor Thiago](https://github.com/alladin51) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
