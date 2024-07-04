@@ -99,13 +99,13 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 
 ## Bibliografia
 
-[1] PAGANINI, Diogo. Técnicas para Elicitação de Requisitos, 2019. Disponível em: <https://pt.linkedin.com/pulse/técnicas-para-elicitação-de-requisitos-diogo-paganini>
+[1] PAGANINI, Diogo. Técnicas para Elicitação de Requisitos, 2019. Disponível em: <https://pt.linkedin.com/pulse/.técnicas-para-elicitação-de-requisitos-diogo-paganini>
 
-[2] PUC-Rio. Elicitação de Requisitos, acesso em 12 de abril de 2024. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>
+[2] PUC-Rio. Elicitação de Requisitos, acesso em 12 de abril de 2024. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>.
 
 ## Histórico de Versão
 
-| Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
+| Versão | Data de execução | Data de revisão |  Descrição  | Autor(es)  | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
 | `1.5` | 04/07/2024  | 04/07/2024 | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo | [Igor Thiago](https://github.com/alladin-51) |
 | `1.4` | 25/05/2024  | 25/05/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
