@@ -107,7 +107,6 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 
 | Versão | Data de execução | Data de revisão |  Descrição  | Autor(es)  | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
-| `1.5` | 04/07/2024  | 04/07/2024 | Correções de formatação | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin-51) |
 | `1.4` | 25/05/2024  | 25/05/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) |
 | `1.3` | 22/04/2024  | 22/04/2024 | Correções ortográficas | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18), [Igor Thiago](https://github.com/alladin-51) |
 | `1.2` | 21/04/2024  | 22/04/2024 | Introspecção de empresa | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Guilherme Meister](https://github.com/gmeister18) |
