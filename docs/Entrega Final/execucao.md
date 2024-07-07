@@ -109,6 +109,16 @@ Nesta seção estão contidos os artefatos relacionados à validação dos requi
 </div>
 <br/>
 
+## Resultados obtidos
+
+Após o desenvolvimento do projeto, foi possível obter diversos resultados relacionados a aplicação dos conteúdos da disciplina de Requisitos de Software em relação ao aplicativo **Consumidor.gov** e o quão condizente o aplicativo é em relação a requisitos e documentos atribuídos ao seu sistema e suas funcionalidades.
+
+- O aplicativo atendeu a grande parte dos requisitos elicitados, o que permite concluir que, dentro de seu escopo, os seus requisitos são muito bem implementados, embora alguns ajustes necessitem de ser feitos de modo a melhorar a experiência do usuário com o *Consumidor.gov*
+
+- Em tese, por apresentar as mesmas funcionalidades da versão *desktop* do Consumidor.gov, esperava-se que o aplicativo mantivesse o mesmo nível de praticidade e eficiência, o que não foi observado em alguns casos, como a ausência de algumas funcionalidades (como a falta de certas informações de uma empresa ao acessar seu "perfil") e a falta de algumas opções de acessibilidade (como modo escuro e conteúdo com descrição audiovisual).
+
+- A comprovação informal via contato com a equipe de desenvolvimento do Consumidor.gov não obteve sucesso, o que não permitiu obter uma maior certeza sobre a qualidade e validade dos requisitos elicitados e documentos desenvolvidos pela equipe
+
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor | Revisor |
