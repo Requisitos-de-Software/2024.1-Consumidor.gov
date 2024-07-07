@@ -7,7 +7,7 @@ Este documento tem o objetivo de descrever o aplicativo escolhido pelo grupo mai
 ## Consumidor.gov
 
 
-O Consumidor.gov.br é uma plataforma online criada pelo governo brasileiro com o objetivo de promover a resolução de conflitos entre consumidores e empresas de forma rápida e desburocratizada. A plataforma é gerida pela Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública e funciona como um canal direto para que os consumidores registrem suas reclamações e obtenham respostas das empresas.
+O Consumidor.gov.br é uma plataforma online criada pelo governo brasileiro com o objetivo de promover a resolução de conflitos entre consumidores e empresas de forma rápida e desburocratizada. A plataforma é gerida pela Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública e funciona como um canal direto para que os consumidores registrem suas reclamações e obtenham respostas das empresas. O Consumidor.gov.br é uma ferramenta essencial para a defesa dos direitos dos consumidores no Brasil, promovendo uma relação mais equilibrada e transparente entre consumidores e empresas.
 
 ### Objetivos do aplicativo
 
