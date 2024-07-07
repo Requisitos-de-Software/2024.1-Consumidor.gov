@@ -1,4 +1,4 @@
-# Filtrar reclamações sobre uma empresa e responder a reclamação de um consumidor
+# Filtrar minhas reclamações 
 
 ## Introdução
 
@@ -23,8 +23,8 @@ O protótipo apresenta uma breve representação da tela de reclamações do pon
 ## Protótipo de Alta Fidelidade
 
 O protótipo, desenvolvido com o uso da ferramenta [Figma](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/ferramentas/#2-lista-de-ferramentas-utilizadas), foi desenvolvido um protótipo de alta fidelidade que buscasse abranger os requisitos listados anteriormente. Este protótipo pode ser visto abaixo:
-  
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="834" height="1194" src="https://www.figma.com/proto/sn9aJ5K3tZGZnai3T7WDG8/Minhas-Reclama%C3%A7%C3%B5es?node-id=1-2&t=erj0dE9DyK9yo8gu-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fsn9aJ5K3tZGZnai3T7WDG8%2FMinhas-Reclama%25C3%25A7%25C3%25B5es%3Fnode-id%3D0-1%26t%3Derj0dE9DyK9yo8gu-1" allowfullscreen></iframe>
 
 <p> <b>Protótipo de alta fidelidade</b>: (Autor: Santana, Igor. 2024).</p>
 
