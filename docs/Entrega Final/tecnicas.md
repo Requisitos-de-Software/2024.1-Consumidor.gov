@@ -1,1 +1,1 @@
-# Técnicas Utilizadas
+# Técnicas
