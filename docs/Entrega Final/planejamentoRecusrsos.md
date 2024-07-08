@@ -31,7 +31,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | 1-7. Atas das Reuniões | 30/03 | 17/04 | Todos | Todos |
 | 1-8. GitPage | 30/03 | 31/03 | Todos | Todos |
 | 1-9. Video de apresentação | 30/03 | 31/03 | Todos | Todos |
-<div><p>Tabela 2 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 2 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 2 - Elicitação
 
@@ -46,7 +46,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | 2-7. MoSCoW | 03/04 | 17/04 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)| [Júlio](https://github.com/Julio1099), [Matheus](https://github.com/matferreira1) |
 | 2-8. Gravação da apresentação | 14/04 | 17/04 | Todos | Todos |
 | 2-9. Correções do Ponto de Controle anterior | 14/04 | 17/04 | Todos | Todos |
-<div><p>Tabela 3 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 3 - Modelagem de Requisitos
 
@@ -58,7 +58,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | 3-4. Especificação suplementar | 14/05 | 20/05 | [Henrique Galdino](https://github.com/hgaldino05)  | [Rodrigo ](https://github.com/rodrigogontijoo)|
 | 3-5. Gravação da apresentação | 15/05 | 20/05 | Todos | Todos |
 | 3-6. Correções do Ponto de Controle anterior | 14/05 | 13/05 | Todos | [Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 4 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 4 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 4 - Modelagem de Requisitos Ágil
 
@@ -69,7 +69,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | 4-3. NFR Framework | 22/05 | 27/05 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)| [Guilherme](https://github.com/gmeister18)|
 | 4-4. Gravação da apresentação | 27/05 | 27/05 | Todos | Todos |
 | 4-5. Correções do Ponto de Controle anterior | 23/05 | 24/05 | Todos | [Matheus](https://github.com/matferreira1) |
-<div><p>Tabela 5 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 5 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 1
 
@@ -79,7 +79,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | (5.1)-2. Validação de requisitos 1 | 30/05 | 09/06 | [Henrique Galdino](https://github.com/hgaldino05), [Júlio](https://github.com/Julio1099)| [Igor](https://github.com/alladin-51), [Matheus](https://github.com/matferreira1)  |
 | (5.1)-3. Gravação da apresentação | 10/06 | 10/06 | Todos | Todos |
 | (5.1)-4. Correções do Ponto de Controle anterior | 30/05 | 04/06 | Todos | Todos |
-<div><p>Tabela 6 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 6 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Grupo 8
 
@@ -89,7 +89,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | (5.2)-2. Validação de requisitos 2 | 19/06 | 24/06 | [Júlio](https://github.com/Julio1099), [Rodrigo ](https://github.com/rodrigogontijoo)|[Matheus](https://github.commatferreira1), [Guilherme](https://github.com/gmeister18)|
 | (5.2)-3. Gravação da apresentação | 24/06 | 24/06 | Todos | Todos |
 | (5.2)-4. Correções do Ponto de Controle anterior | 19/06 | 22/06 | [Henrique Galdino](https://github.com/hgaldino05), [Matheus](https://github.com/matferreira1) |[Igor](https://github.com/alladin-51), [Rodrigo ](https://github.com/rodrigogontijoo)|
-<div><p>Tabela 7 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 7 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
@@ -99,7 +99,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | 6-2. Forward From | 	11/06	 | 17/06 | [Igor](https://github.com/alladin-51) | [Júlio](https://github.com/Julio1099)|
 | 6-3. Gravação da apresentação | 17/06 | 17/06 | Todos | Todos |
 | 6-4. Correções do Ponto de Controle anterior | 11/06 | 15/06 |  [Rodrigo ](https://github.com/rodrigogontijoo)|[Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 8 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 8 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 A seguir, as tabelas, onde estão reunidas as informações do cronograma realizado, o qual reune as informações de quem e quando foram realizados cada artefato.
 
@@ -117,7 +117,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | 1-8. GitPage | 30/03 | 31/03 | Todos | Todos |
 | 1-9. Video de apresentação | 30/03 | 31/03 | Todos | Todos |
 | 1-10. Edição e postagem da Apresentação | 30/03 | 31/03 | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 2 - Elicitação
 
@@ -134,7 +134,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | 2-11. Gravação da apresentação | 14/04 | 17/04 | Todos | Todos |
 | 2-12. Correções do Ponto de Controle anterior | 14/04 | 17/04 | Todos | Todos |
 | 2-13. Edição e postagem da Apresentação | 14/04 | 17/04 | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 3 - Modelagem de Requisitos
 
@@ -148,7 +148,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | 3-6. Gravação da apresentação | 15/05 | 20/05 | Todos | Todos |
 | 3-7. Correções do Ponto de Controle anterior | 14/05 | 13/05 | Todos | [Guilherme](https://github.com/gmeister18)|
 | 3-8. Edição e postagem da Apresentação | 20/05 | 20/05 | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 4 - Modelagem de Requisitos Ágil
 
@@ -160,7 +160,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | 4-4. Gravação da apresentação | 27/05 | 27/05 | Todos | Todos |
 | 4-5. Correções do Ponto de Controle anterior | 23/05 | 24/05 | Todos | [Matheus](https://github.com/matferreira1) |
 | 4-6. Edição e postagem da Apresentação | 27/05 | 27/05 | [Henrique Galdino](https://github.com/hgaldino05) | [Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 1
 
@@ -171,7 +171,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | (5.1)-3. Comprovação Informal | 30/05 | 09/06 | [Guilherme](https://github.com/gmeister18)| [Igor](https://github.com/alladin-51) |
 | (5.1)-4. Gravação da apresentação | 10/06 | 10/06 | Todos | Todos |
 | (5.1)-5. Correções do Ponto de Controle anterior | 30/05 | 04/06 | Todos | Todos |
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Grupo 8
 
@@ -181,7 +181,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | (5.2)-2. Validação de requisitos do grupo 08 | 19/06 | 24/06 | [Júlio](https://github.com/Julio1099), [Rodrigo ](https://github.com/rodrigogontijoo)| [Matheus](https://github.com/matferreira1), [Guilherme](https://github.com/gmeister18)|
 | (5.2)-3. Gravação da apresentação | 24/06 | 24/06 | Todos | Todos |
 | (5.2)-4. Correções do Ponto de Controle anterior | 19/06 | 22/06 | [Henrique Galdino](https://github.com/hgaldino05), [Matheus](https://github.com/matferreira1) | [Igor](https://github.com/alladin-51), [Rodrigo ](https://github.com/rodrigogontijoo)|
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
@@ -191,7 +191,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | 6-2. Forward From | 	11/06	 | 17/06 | [Igor](https://github.com/alladin-51) | [Júlio](https://github.com/Julio1099)|
 | 6-3. Gravação da apresentação | 17/06 | 17/06 | Todos | Todos |
 | 6-4. Correções do Ponto de Controle anterior | 11/06 | 15/06 |  [Rodrigo ](https://github.com/rodrigogontijoo)| [Guilherme](https://github.com/gmeister18)|
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Entrega 7 - Entrega final
 
@@ -203,7 +203,7 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 | 7-7. Correções do Ponto de Controle anterior | 28/06 | 05/07 | Todos | Todos |
 | 7-8. Documentação das atas | 04/07 | 04/07 | Todos | Todos |
 | 7-9. Edição e postagem da Apresentação | 05/07 | 05/07 | [Henrique Galdino](https://github.com/hgaldino05) | [Igor](https://github.com/alladin-51) |
-<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
+<div><p>Tabela 3 - Execução dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
 
 ## Bibliografia
 
