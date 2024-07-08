@@ -14,3 +14,7 @@ Gostaríamos de enfatizar o quanto admiramos seu profissionalismo e paixão pelo
 
 Em nome do grupo 08 de Requisitos de Software, agradecemos de coração por todo o conhecimento compartilhado e pelo apoio constante. Desejamos ao senhor muita saúde, felicidade e sucesso em tudo o que almejar.
 
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 07/07/2024 | `1.0` | Criação do documento | [Guilherme Meister](https://github.com/gmeister18) | 07/07/2023 | [Júlio César](https://github.com/Julio1099) |
