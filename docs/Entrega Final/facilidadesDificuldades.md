@@ -42,13 +42,26 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 
 - **Tempo**: A necessidade de conciliar o trabalho no projeto com outras responsabilidades acadêmicas e pessoais resultou em prazos apertados e momentos de estresse. A gestão eficiente do tempo foi um desafio, especialmente durante períodos de maior demanda acadêmica, como provas e outros projetos.
 
+## Júlio Cesar
+
+### Facilidades
+
+- **Membros da equipe**: A equipe sempre se mostrou empenhada nas entregas e estava disposta a esclarecer dúvidas que surgiam. O trabalho colaborativo foi um ponto forte, pois todos os membros contribuíram com suas habilidades e conhecimentos específicos.
+
+### Dificuldades
+
+- **Tempo**: Uma dificuldade pessoal foi gerenciar o tempo, especialmente ao conciliar este projeto com outras matérias. Com diversas responsabilidades acadêmicas e extracurriculares, equilibrar as demandas do projeto com os estudos para outras disciplinas se mostrou desafiador.
+
+- **Apresentações**: Tive dificuldades com as apresentações ao longo do semestre devido a problemas pessoais com falar em público. Esta dificuldade afetou minha capacidade de transmitir informações de maneira clara e eficaz durante as apresentações.
+
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 08/07/2024 | 1.2 | Adicionando facilidades Mtheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio César](https://github.com/Julio1099)|
-| 06/07/2024 | 1.1 | Adicionando minhas facilidades e dificuldades | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio César](https://github.com/Julio1099)|
-| 06/07/2024 | 1.0 | Criação do documento | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio César](https://github.com/Julio1099)|
+| 08/07/2024 | 1.3 | Adicionando facilidades e dificuldades Júlio | [Júlio Cesar](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05)|
+| 08/07/2024 | 1.2 | Adicionando facilidades Mtheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio Cesar](https://github.com/Julio1099)|
+| 06/07/2024 | 1.1 | Adicionando minhas facilidades e dificuldades | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio Cesar](https://github.com/Julio1099)|
+| 06/07/2024 | 1.0 | Criação do documento | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio Cesar](https://github.com/Julio1099)|
 
 <div align ="center">
 <figcaption align="left">Tabela 1: Histórico de Versão (Autor: Henrique Galdino, 2024)</figcaption>
