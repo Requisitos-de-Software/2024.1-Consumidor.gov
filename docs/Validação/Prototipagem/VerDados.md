@@ -34,4 +34,4 @@ O protótipo, desenvolvido com o uso da ferramenta [Figma](https://requisitos-de
 ## Histórico de Versões
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 03/07/2024 | `1.0` | Criação do artefato | [Matheus Ferreira](https://github.com/matferreira1) | 03/07/2023 | [Júlio César](https://github.com/Julio1099) |
+| 03/07/2024 | `1.0` | Criação do artefato | [Matheus Ferreira](https://github.com/matferreira1) | 03/07/2023 | [Igor Thiago](https://github.com/alladin-51) |

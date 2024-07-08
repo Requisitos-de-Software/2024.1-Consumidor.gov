@@ -106,6 +106,26 @@ A Tabela 6 mostra as atividades realizadas do Ponto de Controle 6, com seus resp
 #### Tabela 6 - Itens realizados Ponto de Controle 6 (Autor: Matheus Ferreira, 2024).
 ---
 
+## Ponto de Controle 5.2
+A Tabela 7 mostra as atividades realizadas do Ponto de Controle 5.2, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Verificação de requisitos do [Grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%201%20-%20Planejamento/planejamento/) | 19/06 | 24/06 | 24/06 | Todos | Todos  |
+| [Comprovação Informal](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/ValidacaoInformal/) | 28/06 | 30/06 | 30/06 | [Guilherme Meister](https://github.com/gmeister18) |[Henrique Galdino](https://github.com/hgaldino05)  |
+| [Protótipo Modo Escuro e Libras](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Acessibilidade/) | 28/06 | 30/06 | 30/06 | [Guilherme Meister](https://github.com/gmeister18) |[Henrique Galdino](https://github.com/hgaldino05)  |
+| [Protótipo Anexar Foto ao Perfil](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Anexar/) | 28/06 | 01/07 | 01/07 | [Julio Cesar](https://github.com/Julio1099) |[Henrique Galdino](https://github.com/hgaldino05)  |
+| [Protótipo Filtrar Minhas Reclamações](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/MinhaReclamacao/) | 07/07 | 07/07 | 07/07 | [Igor Thiago](https://github.com/alladin-51) |[Julio Cesar](https://github.com/Julio1099) |
+| [Protótipo Notificação Status](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Notificacao/) | 01/07 | 01/07 | 01/07 | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin-51) |
+| [Protótipo Filtrar Reclamações](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Responder/) | 01/07 | 01/07 | 01/07 | [Henrique Galdino](https://github.com/hgaldino05)| [Julio Cesar](https://github.com/Julio1099) |
+| [Protótipo Ver Dados](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/VerDados/) | 03/07 | 03/07 | 03/07 | [Matheus Ferreira](https://github.com/matferreira1)| [Igor Thiago](https://github.com/alladin-51) |
+| Gravação da apresentação | 01/07 | 01/07 | 01/07 | Todos | Todos  |
+| Correção dos artefatos passados | 27/06 | 29/06 | 29/06 | Todos | Todos  |
+
+
+#### Tabela 7 - Itens realizados Ponto de Controle 5.2 (Autor: Matheus Ferreira, 2024).
+---
+
 ### Bibliografia
 >[1]  SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844903/mod_resource/content/40/Plano_de_Ensino%20RE%20012024%20Turma%201.pdf>. Acesso em 02 de abril de 2024.
 
@@ -114,6 +134,7 @@ A Tabela 6 mostra as atividades realizadas do Ponto de Controle 6, com seus resp
 ### Histórico de versão
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.5` | 08/07 | 08/07 | Atualizando cronograma (entregas 5.1,5.2 e 6)| [Matheus Ferreira](https://github.com/matferreira1) |[Igor Thiago](https://github.com/alladin-51)|
 | `1.4` | 27/05 | 27/05 | Atualizando cronograma (entrega 4)| [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.3` | 21/04 | 21/04 | Atualizando cronograma (entrega 3)| [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51), [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.2` | 21/04 | 21/04 | Atualizando cronograma (entrega 2)| [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51), [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
