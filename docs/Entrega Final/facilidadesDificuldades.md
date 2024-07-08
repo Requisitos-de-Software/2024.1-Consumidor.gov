@@ -36,6 +36,7 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
+| 08/07/2024 | 1.2 | Adicionando facilidades Mtheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio César](https://github.com/Julio1099)|
 | 06/07/2024 | 1.1 | Adicionando minhas facilidades e dificuldades | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio César](https://github.com/Julio1099)|
 | 06/07/2024 | 1.0 | Criação do documento | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio César](https://github.com/Julio1099)|
 
