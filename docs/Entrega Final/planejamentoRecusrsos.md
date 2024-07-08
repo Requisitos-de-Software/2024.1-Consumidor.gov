@@ -213,6 +213,4 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| `1.0` | 08/07/2024  | Criação do artefato | [[Guilherme](https://github.com/gmeister18)
- Meister](https://github.com/gmeister18) | 08/07/2024 | [[Rodrigo ](https://github.com/rodrigogontijoo)
- ](https://github.com/rodrigogontijoo) |
+| `1.0` | 08/07/2024  | Criação do artefato | [[Guilherme](https://github.com/gmeister18)| 08/07/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
