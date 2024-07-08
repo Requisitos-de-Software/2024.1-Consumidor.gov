@@ -71,7 +71,7 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 | --- | --- | --- | --- | --- |
 | 08/07/2024 | 1.4 | Adicionando facilidades e dificuldades Guilherme | [Guilherme Meister](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 08/07/2024 | 1.3 | Adicionando facilidades e dificuldades Júlio | [Júlio Cesar](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05)|
-| 08/07/2024 | 1.2 | Adicionando facilidades Mtheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio Cesar](https://github.com/Julio1099)|
+| 08/07/2024 | 1.2 | Adicionando facilidades Matheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio Cesar](https://github.com/Julio1099)|
 | 06/07/2024 | 1.1 | Adicionando minhas facilidades e dificuldades | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio Cesar](https://github.com/Julio1099)|
 | 06/07/2024 | 1.0 | Criação do documento | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio Cesar](https://github.com/Julio1099)|
 
