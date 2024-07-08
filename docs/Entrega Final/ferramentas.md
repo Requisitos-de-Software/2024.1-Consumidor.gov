@@ -82,6 +82,11 @@ A Tabela 1 a seguir agrupa as ferramentas utilizadas, indicando a finalidade de 
       <td><b><a href="#">This person does not exist:</a></b> Criação de imagens de pessoas falsas para as Personas [13].</td>
       <td>Etapa 2</td>
     </tr>
+    <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/meet.png?raw=true" width="100" height="100"></td>
+      <td><b><a href="#">Google Meet:</a></b> Ferramenta para reuniões secundárias [14].</td>
+      <td>Etapa 2</td>
+    </tr>
   </tbody>
 </table>
 
@@ -120,6 +125,7 @@ O uso das ferramentas no projeto foi essencial para aprimorar a eficiência e a 
 >
 > [13] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: Jun. de 2024.
 >
+> [14] Google Meet. Disponível em: [https://meet.google.com](https://meet.google.com). Acesso em: Jun. de 2024.
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                    |
