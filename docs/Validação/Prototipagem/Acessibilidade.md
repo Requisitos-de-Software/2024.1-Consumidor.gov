@@ -76,7 +76,7 @@ A <i>Tabela 3</i> a seguir informa os dados da terceira avaliação referente a 
 
 | <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
 | :----------: | :-------: | :--: | :-----: | :---: |
-|  | Guilherme Meister  |  |  | Microsoft Teams |
+| Guilherme Coelho | Guilherme Meister  | 27 jun. 2024 | 21:00 | Microsoft Teams |
 <figcaption align='center'> Tabela 3: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
 
 <iframe width="560" height="315" src="" title="Entrevista 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
