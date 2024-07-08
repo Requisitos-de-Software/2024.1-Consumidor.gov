@@ -18,6 +18,18 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 
 - **Tempo**: A dificuldade de conciliar o projeto com as demais disciplinas do semestre foi um dos maiores desafios enfrentados por mim. O fato de ter que desenvolver o projeto em paralelo com as demais disciplinas do semestre e com o estágio, fez com que eu tivesse dificuldades para que conseguisse entregar os artefatos no prazo estipulado. Junto a isso, a greve dos professores atrapalhou a rotina que eu havia estabelecido no início do semestre, o que fez com que eu tivesse que me adaptar para conseguir realizar as entregas a tempo.
 
+## Matheus Ferreira
+
+### Facilidades
+
+- **Conhecimento sobre o conteúdo**: Tive facilidade na compreensão da matéria e sobre o que deveria ser feito nos artefatos, já que já havia estudado sobre o conteúdo de requisitos e a parte de SCRUM antes de fazer a matéria.
+
+- **Conhecimento sobre as ferramentas**: Como já havia utilizado todas as ferramentas que foram usadas no projeto, como Figma, VS Code, mkdocs, não tive problemas técnicos nesse sentido.
+
+### Dificuldades
+
+- **Tempo**: A grande dificuldade da matéria foi com relação ao tempo. O projeto em si é bastante extenso e trabalhoso com várias entregas e conciliar isso com as outras matérias que não entraram de greve e com meu trabalho foi bem complicado, porém consegui me organizar para fazer as entregas da melhor maneira possível
+
 
 
 ## Histórico de versão
