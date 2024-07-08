@@ -83,7 +83,7 @@ A Tabela 1 a seguir agrupa as ferramentas utilizadas, indicando a finalidade de 
       <td>Etapa 2</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/meet.png?raw=true" width="100" height="100"></td>
+      <td><img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/Meet.png?raw=true" width="100" height="100"></td>
       <td><b><a href="#">Google Meet:</a></b> Ferramenta para reuniões secundárias [14].</td>
       <td>Etapa 2</td>
     </tr>
