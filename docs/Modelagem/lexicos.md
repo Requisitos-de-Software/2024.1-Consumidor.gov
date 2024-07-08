@@ -193,15 +193,15 @@ O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada l
 
 | Léxico | Relaciona-se com | Descrição do Relacionamento |
 |--------|------------------|-----------------------------|
-| <a id="anchor_L01" href="#anchor_L01">L01</a>: Pesquisar Empresa | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário utiliza o sistema para pesquisar uma empresa específica dentro do aplicativo. |
-| <a id="anchor_L02" href="#anchor_L02">L02</a>: Abrir Reclamação | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário registra uma reclamação contra uma empresa no aplicativo. |
-| <a id="anchor_L03" href="#anchor_L03">L03</a>: Visualizar Reclamações de Outros Usuários | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza as reclamações registradas por outros usuários no aplicativo. |
-| <a id="anchor_L04" href="#anchor_L04">L04</a>: Visualizar Minhas Reclamações | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza as reclamações que ele próprio registrou no aplicativo. |
-| <a id="anchor_L05" href="#anchor_L05">L05</a>: Visualizar Dados Gerais | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza dados gerais sobre o aplicativo. |
-| <a id="anchor_L06" href="#anchor_L06">L06</a>: Visualizar Meus Dados | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza seus próprios dados cadastrais no aplicativo. |
-| <a id="anchor_L07" href="#anchor_L07">L07</a>: Responder Reclamação | <a id="anchor_L03" href="#anchor_L03">L03</a>: Visualizar Reclamações de Outros Usuários, <a id="anchor_L08" href="#anchor_L08">L08</a>: Avaliar Empresa, <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
-| <a id="anchor_L08" href="#anchor_L08">L08</a>: Avaliar Empresa | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
-| <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | <a id="anchor_L01" href="#anchor_L01">L01</a>: Pesquisar Empresa, <a id="anchor_L02" href="#anchor_L02">L02</a>: Abrir Reclamação, <a id="anchor_L03" href="#anchor_L03">L03</a>: Visualizar Reclamações de Outros Usuários, <a id="anchor_L04" href="#anchor_L04">L04</a>: Visualizar Minhas Reclamações, <a id="anchor_L05" href="#anchor_L05">L05</a>: Visualizar Dados Gerais, <a id="anchor_L06" href="#anchor_L06">L06</a>: Visualizar Meus Dados, <a id="anchor_L07" href="#anchor_L07">L07</a>: Responder Reclamação, <a id="anchor_L08" href="#anchor_L08">L08</a>: Avaliar Empresa | O usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
+| <a id="anchor_L01" href="#L01">L01</a>: Pesquisar Empresa | <a id="anchor_L09" href="#L09">L09</a>: Usuário | O usuário utiliza o sistema para pesquisar uma empresa específica dentro do aplicativo. |
+| <a id="anchor_L02" href="#L02">L02</a>: Abrir Reclamação | <a id="anchor_L09" href="#L09">L09</a>: Usuário | O usuário registra uma reclamação contra uma empresa no aplicativo. |
+| <a id="anchor_L03" href="L03">L03</a>: Visualizar Reclamações de Outros Usuários | <a id="anchor_L09" href="L09">L09</a>: Usuário | O usuário visualiza as reclamações registradas por outros usuários no aplicativo. |
+| <a id="anchor_L04" href="#L04">L04</a>: Visualizar Minhas Reclamações | <a id="anchor_L09" href="#L09">L09</a>: Usuário | O usuário visualiza as reclamações que ele próprio registrou no aplicativo. |
+| <a id="anchor_L05" href="#L05">L05</a>: Visualizar Dados Gerais | <a id="anchor_L09" href="#L09">L09</a>: Usuário | O usuário visualiza dados gerais sobre o aplicativo. |
+| <a id="anchor_L06" href="#L06">L06</a>: Visualizar Meus Dados | <a id="anchor_L09" href="#L09">L09</a>: Usuário | O usuário visualiza seus próprios dados cadastrais no aplicativo. |
+| <a id="anchor_L07" href="#L07">L07</a>: Responder Reclamação | <a id="anchor_L03" href="#L03">L03</a>: Visualizar Reclamações de Outros Usuários, <a id="anchor_L08" href="#L08">L08</a>: Avaliar Empresa, <a id="anchor_L09" href="#L09">L09</a>: Usuário | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
+| <a id="anchor_L08" href="#L08">L08</a>: Avaliar Empresa | <a id="anchor_L09" href="#L09">L09</a>: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
+| <a id="anchor_L09" href="#L09">L09</a>: Usuário | <a id="anchor_L01" href="#L01">L01</a>: Pesquisar Empresa, <a id="anchor_L02" href="#L02">L02</a>: Abrir Reclamação, <a id="anchor_L03" href="#L03">L03</a>: Visualizar Reclamações de Outros Usuários, <a id="anchor_L04" href="#L04">L04</a>: Visualizar Minhas Reclamações, <a id="anchor_L05" href="#L05">L05</a>: Visualizar Dados Gerais, <a id="anchor_L06" href="#L06">L06</a>: Visualizar Meus Dados, <a id="anchor_L07" href="#L07">L07</a>: Responder Reclamação, <a id="anchor_L08" href="#L08">L08</a>: Avaliar Empresa | O usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
 
 
 
@@ -218,4 +218,5 @@ O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada l
 
 | Versão | Data       | Descrição               | Autor                                           | Revisor                                              |
 |--------|------------|-------------------------|-------------------------------------------------|------------------------------------------------------|
+| `1.1`  | 08/07/2024 | adição dos hyberlinks dos léxicos.    | [Júlio Cesar](https://github.com/Julio1099)     | [Matheus Ferreira](https://github.com/matferreira1)  |
 | `1.0`  | 16/05/2024 | Criação dos léxicos.    | [Júlio Cesar](https://github.com/Julio1099)     | [Matheus Ferreira](https://github.com/matferreira1)  |
