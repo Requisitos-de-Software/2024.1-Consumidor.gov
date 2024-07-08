@@ -69,21 +69,6 @@ A <i>Tabela 2</i> a seguir informa os dados da segunda avaliação referente a u
 <p> <b>Vídeo 2</b>: gravação da entrevista 2 (Autor: Meister, Guiherme 2024).</p>
 </div>
 
----
-
-#### Entrevista 3
-A <i>Tabela 3</i> a seguir informa os dados da terceira avaliação referente a usabilidade do protótipo, bem como a gravação do processo feito pelo usuário.
-
-| <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
-| :----------: | :-------: | :--: | :-----: | :---: |
-| Guilherme Coelho | Guilherme Meister  | 27 jun. 2024 | 21:00 | Microsoft Teams |
-<figcaption align='center'> Tabela 3: Dados da avaliação 1 (Autor: Meister, Guilherme. 2024)</figcaption>
-
-<iframe width="560" height="315" src="" title="Entrevista 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div align="center">
-<p> <b>Vídeo 3</b>: gravação da entrevista 3 (Autor: Meister, Guilherme. 2024).</p>
-</div>
-
 ## Referências
 - Prototipagem: como funciona e sua importância para área de TI.  Disponível em: <https://kenzie.com.br/blog/prototipagem/#:~:text=O%20que%20%C3%A9%20prototipagem%3F&text=Prototipagem%20%C3%A9%20a%20etapa%20do,etapa%20de%20aprova%C3%A7%C3%A3o%20e%20valida%C3%A7%C3%A3o.>. Acesso em: 28 jun. 2024.
 
