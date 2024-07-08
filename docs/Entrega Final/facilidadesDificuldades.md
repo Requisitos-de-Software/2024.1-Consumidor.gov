@@ -30,7 +30,17 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 
 - **Tempo**: A grande dificuldade da matéria foi com relação ao tempo. O projeto em si é bastante extenso e trabalhoso com várias entregas e conciliar isso com as outras matérias que não entraram de greve e com meu trabalho foi bem complicado, porém consegui me organizar para fazer as entregas da melhor maneira possível
 
+## Igor Thiago
 
+### Facilidades
+
+- **Fontes**: Uma das principais facilidades que encontrei foi ter acesso a outros repositórios da matéria onde encontrava sempre alguma dica de como fazer algum artefato ou qual caminho seguir. Além disso os livros que estudamos na matéria são muito bons e explicam detalhadamente o conteúdo.
+
+- **Membros da Equipe**: Os meus colegas de grupo desde o início do projeto se mostraram bem empenhados e determinados a concluir o trabalho. Sempre solícitos a ajudar e a motivar uns aos outros.
+
+### Dificuldades
+
+- **Tempo**: A necessidade de conciliar o trabalho no projeto com outras responsabilidades acadêmicas e pessoais resultou em prazos apertados e momentos de estresse. A gestão eficiente do tempo foi um desafio, especialmente durante períodos de maior demanda acadêmica, como provas e outros projetos.
 
 ## Histórico de versão
 
