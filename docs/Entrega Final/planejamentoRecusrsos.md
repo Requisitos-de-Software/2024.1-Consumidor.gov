@@ -211,6 +211,9 @@ A seguir, as tabelas, onde estão reunidas as informações do cronograma realiz
 
 > <a id="QT2" href="#anchor_2">2.</a> SALES, André Barros. Ambientação - Exemplo de Cronograma. Aprender 3. Distrito Federal, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em 08 de julho de 2024.
 
+
+## Histórico de Versões
+
 | Versão | Data | Descrição | Autor(es) | Data da revisão | Revisor(es) |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| `1.0` | 08/07/2024  | Criação do artefato | [[Guilherme](https://github.com/gmeister18)| 08/07/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
+| `1.0` | 08/07/2024  | Criação do artefato | [Guilherme](https://github.com/gmeister18)| 08/07/2024 | [Rodrigo ](https://github.com/rodrigogontijoo) |
