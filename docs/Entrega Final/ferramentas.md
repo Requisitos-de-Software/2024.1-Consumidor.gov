@@ -77,6 +77,11 @@ A Tabela 1 a seguir agrupa as ferramentas utilizadas, indicando a finalidade de 
       <td><b><a href="#">Canva:</a></b> Ferramenta utilizada para preparação de imagens para o projeto [12].</td>
       <td>Etapas 1, 3 e 4</td>
     </tr>
+     <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></td>
+      <td><b><a href="#">This person does not exist:</a></b> Criação de imagens de pessoas falsas para as Personas [13].</td>
+      <td>Etapa 2</td>
+    </tr>
   </tbody>
 </table>
 
@@ -113,9 +118,11 @@ O uso das ferramentas no projeto foi essencial para aprimorar a eficiência e a 
 >
 > [12] Canva. Disponível em: [https://www.canva.com/pt_br/](https://www.canva.com/pt_br/). Acesso em: Jun. de 2024.
 >
-
+> [13] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: Jun. de 2024.
+>
 ## Histórico de Versões
 
 | Versão | Data       | Descrição            | Autor(es)                                                                                           | Revisor(es)                                    |
 | ------ | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `1.1`  | 07/07/2024 | Correção tabela.   | [Júlio Cesar](https://github.com/Julio1099") | [Henrique Galdino](https://github.com/hgaldino05) |
 | `1.0`  | 07/07/2024 | Criação do artefato.   | [Júlio Cesar](https://github.com/Julio1099") | [Henrique Galdino](https://github.com/hgaldino05) |
