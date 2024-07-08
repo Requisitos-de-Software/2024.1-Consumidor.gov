@@ -54,10 +54,22 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 
 - **Apresentações**: Tive dificuldades com as apresentações ao longo do semestre devido a problemas pessoais com falar em público. Esta dificuldade afetou minha capacidade de transmitir informações de maneira clara e eficaz durante as apresentações.
 
+## Guilherme Meister
+
+### Facilidades
+
+- **Membros da equipe**: Grupo foi bastante compreensivo e não houve atritos na maioria das reuniões.
+- **Estudo**: Conteúdos relacionados e artefatos já desenvolvido, dando uma base sólida na hora da produção dos artefatos do nosso grupo
+
+### Dificuldades
+
+- **Tempo**: Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a conciliação de horários para a realização das tarefas. Outra dificuldade foi o tempo para as entregas, em particular acredito que foi difícil manter a constância que a disciplina exige.
+
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
+| 08/07/2024 | 1.4 | Adicionando facilidades e dificuldades Guilherme | [Guilherme Meister](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 08/07/2024 | 1.3 | Adicionando facilidades e dificuldades Júlio | [Júlio Cesar](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 08/07/2024 | 1.2 | Adicionando facilidades Mtheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio Cesar](https://github.com/Julio1099)|
 | 06/07/2024 | 1.1 | Adicionando minhas facilidades e dificuldades | [Henrique Galdino](https://github.com/hgaldino05) | [Júlio Cesar](https://github.com/Julio1099)|
