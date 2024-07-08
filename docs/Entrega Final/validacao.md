@@ -6,7 +6,7 @@ Este documento inclui uma tabela com os autores de cada protótipo de alta fidel
 
 ## Metodologia
 
-Cada integrante do grupo ficou responsável pela implementação de um protótipo de alta fidelidade de um requisito elicitado não implementado. Após a prototipação, foi realizado a validação dos protótipos com usuários do aplicativo Consumidor.gov. Todas as validações foram documentadas nos artefatos disponíveis com seus respectivos autores presents na Tabela 1.
+Cada integrante do grupo ficou responsável pela implementação de um protótipo de alta fidelidade de um requisito elicitado não implementado. Após a prototipação, foi realizado a validação dos protótipos com usuários do aplicativo Consumidor.gov. Todas as validações foram documentadas nos artefatos disponíveis com seus respectivos autores presentes na Tabela 01.
 
 Além disso, foi enviado um e-mail para o Consumidor.Gov, no endereço admin@consumidor.gov.br, solicitando a validação dos requisitos elicitados e outros artefatos, com o intuito de obter um retorno do time de desenvolvimento. Porém, até o presente momento, não obtivemos retorno por parte da equipe responsável pelo aplicativo Consumidor.Gov em relação ao nosso contato. 
 
