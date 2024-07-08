@@ -79,7 +79,7 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 #### Tabela 4 - Itens realizados Ponto de Controle 4. (Autor: GALDINO, Henrique 2024).
 
 ## Ponto de Controle 5.1
-A Tabela 5 mostra as atividades realizadas do Ponto de Controle 5, com seus respectivos autores, revisores e datas.
+A Tabela 5 mostra as atividades realizadas do Ponto de Controle 5.1, com seus respectivos autores, revisores e datas.
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
@@ -89,6 +89,21 @@ A Tabela 5 mostra as atividades realizadas do Ponto de Controle 5, com seus resp
 
 
 #### Tabela 5 - Itens realizados Ponto de Controle 5.1 (Autor: Matheus Ferreira, 2024).
+---
+
+## Ponto de Controle 6
+A Tabela 6 mostra as atividades realizadas do Ponto de Controle 6, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+|[Backward From](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/backward/) | 11/06 | 17/06 | 17/06 | Todos | Todos  |
+|[Forward From](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/forward/) | 11/06 | 17/06 | 17/06 | Todos | Todos  |
+|[Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/matriz/) | 11/06 | 17/06 | 17/06 | Todos | Todos  |
+| Gravação da apresentação | 17/06 | 17/06 | 17/06 | Todos | Todos  |
+| Correção dos artefatos passados | 11/06 | 14/06 | 14/06 | Todos | Todos  |
+
+
+#### Tabela 6 - Itens realizados Ponto de Controle 6 (Autor: Matheus Ferreira, 2024).
 ---
 
 ### Bibliografia
