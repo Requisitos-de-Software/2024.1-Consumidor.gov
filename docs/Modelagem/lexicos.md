@@ -43,7 +43,7 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Bilheteria
 
 ## Léxicos
 
-### L01: Pesquisar Empresa
+### <a id="L01" href="#anchor_L01" style="color;"> L01: Pesquisar Empresa</a>
 
 O usuário busca uma empresa específica dentro do aplicativo. Ele faz uso do requisito <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF02</a>.
 
@@ -59,7 +59,7 @@ O usuário busca uma empresa específica dentro do aplicativo. Ele faz uso do re
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L02: Abrir Reclamação
+### <a id="L02" href="#anchor_L02" style="color;"> L02: Abrir Reclamação</a>
 
 O usuário registra uma reclamação contra uma empresa no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF06</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF07</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF09</a>.
 
@@ -75,7 +75,7 @@ O usuário registra uma reclamação contra uma empresa no aplicativo. Ele faz u
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L03: Visualizar Reclamações de Outros Usuários
+### <a id="L03" href="#anchor_L03" style="color;">L03: Visualizar Reclamações de Outros Usuários</a>
 
 O usuário visualiza as reclamações registradas por outros usuários no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF03</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF04</a>.
 
@@ -91,7 +91,7 @@ O usuário visualiza as reclamações registradas por outros usuários no aplica
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L04: Visualizar Minhas Reclamações
+### <a id="L04" href="#anchor_L04" style="color;">L04: Visualizar Minhas Reclamações</a>
 
 O usuário visualiza as reclamações que ele próprio registrou no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF10</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF11</a>.
 
@@ -107,7 +107,7 @@ O usuário visualiza as reclamações que ele próprio registrou no aplicativo. 
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L05: Visualizar Dados Gerais
+### <a id="L05" href="#anchor_L05" style="color;">L05: Visualizar Dados Gerais</a>
 
 O usuário visualiza dados gerais sobre o aplicativo, como total de reclamações finalizadas e total de usuários cadastrados. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF04</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF24</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF25</a>.
 
@@ -123,7 +123,7 @@ O usuário visualiza dados gerais sobre o aplicativo, como total de reclamaçõe
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L06: Visualizar Meus Dados
+### <a id="L06" href="#anchor_L06" style="color;">L06: Visualizar Meus Dados</a>
 
 O usuário visualiza seus próprios dados cadastrais no aplicativo, incluindo nome, CPF e data de nascimento.
 
@@ -139,7 +139,7 @@ O usuário visualiza seus próprios dados cadastrais no aplicativo, incluindo no
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L07: Responder Reclamação
+### <a id="L07" href="#anchor_L07" style="color;">L07: Responder Reclamação</a>
 
 A empresa responde a uma reclamação recebida de um usuário no aplicativo. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF11</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF12</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF21</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF22</a>, <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF23</a>.
 
@@ -155,7 +155,7 @@ A empresa responde a uma reclamação recebida de um usuário no aplicativo. Ele
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L08: Avaliar Empresa
+### <a id="L08" href="#anchor_L08" style="color;">L08: Avaliar Empresa</a>
 
 O usuário avalia a resposta de uma empresa à reclamação que ele fez. Ele faz o uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicitação/requisitos-elicitados/">RF15</a>.
 
@@ -171,7 +171,7 @@ O usuário avalia a resposta de uma empresa à reclamação que ele fez. Ele faz
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
 
-### L09: Usuário
+### <a id="L09" href="#anchor_L09" style="color;">L09: Usuário</a>
 
 #### Tabela 12 - Léxico Usuário
 
@@ -193,15 +193,17 @@ O Relacionamento dos léxicos, representado na tabela abaixo, mostra como cada l
 
 | Léxico | Relaciona-se com | Descrição do Relacionamento |
 |--------|------------------|-----------------------------|
-| L01: Pesquisar Empresa | L09: Usuário | O usuário utiliza o sistema para pesquisar uma empresa específica dentro do aplicativo. |
-| L02: Abrir Reclamação | L09: Usuário | O usuário registra uma reclamação contra uma empresa no aplicativo. |
-| L03: Visualizar Reclamações de Outros Usuários | L09: Usuário | O usuário visualiza as reclamações registradas por outros usuários no aplicativo. |
-| L04: Visualizar Minhas Reclamações | L09: Usuário | O usuário visualiza as reclamações que ele próprio registrou no aplicativo. |
-| L05: Visualizar Dados Gerais | L09: Usuário | O usuário visualiza dados gerais sobre o aplicativo. |
-| L06: Visualizar Meus Dados | L09: Usuário | O usuário visualiza seus próprios dados cadastrais no aplicativo. |
-| L07: Responder Reclamação | L03: Visualizar Reclamações de Outros Usuários, L08: Avaliar Empresa, L09: Usuário | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
-| L08: Avaliar Empresa | L09: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
-| L09: Usuário | L01: Pesquisar Empresa, L02: Abrir Reclamação, L03: Visualizar Reclamações de Outros Usuários, L04: Visualizar Minhas Reclamações, L05: Visualizar Dados Gerais, L06: Visualizar Meus Dados, L07: Responder Reclamação, L08: Avaliar Empresa | O Usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
+| <a id="anchor_L01" href="#anchor_L01">L01</a>: Pesquisar Empresa | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário utiliza o sistema para pesquisar uma empresa específica dentro do aplicativo. |
+| <a id="anchor_L02" href="#anchor_L02">L02</a>: Abrir Reclamação | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário registra uma reclamação contra uma empresa no aplicativo. |
+| <a id="anchor_L03" href="#anchor_L03">L03</a>: Visualizar Reclamações de Outros Usuários | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza as reclamações registradas por outros usuários no aplicativo. |
+| <a id="anchor_L04" href="#anchor_L04">L04</a>: Visualizar Minhas Reclamações | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza as reclamações que ele próprio registrou no aplicativo. |
+| <a id="anchor_L05" href="#anchor_L05">L05</a>: Visualizar Dados Gerais | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza dados gerais sobre o aplicativo. |
+| <a id="anchor_L06" href="#anchor_L06">L06</a>: Visualizar Meus Dados | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário visualiza seus próprios dados cadastrais no aplicativo. |
+| <a id="anchor_L07" href="#anchor_L07">L07</a>: Responder Reclamação | <a id="anchor_L03" href="#anchor_L03">L03</a>: Visualizar Reclamações de Outros Usuários, <a id="anchor_L08" href="#anchor_L08">L08</a>: Avaliar Empresa, <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | A empresa responde a uma reclamação recebida de um usuário no aplicativo. |
+| <a id="anchor_L08" href="#anchor_L08">L08</a>: Avaliar Empresa | <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | O usuário avalia a resposta de uma empresa à reclamação que ele fez. |
+| <a id="anchor_L09" href="#anchor_L09">L09</a>: Usuário | <a id="anchor_L01" href="#anchor_L01">L01</a>: Pesquisar Empresa, <a id="anchor_L02" href="#anchor_L02">L02</a>: Abrir Reclamação, <a id="anchor_L03" href="#anchor_L03">L03</a>: Visualizar Reclamações de Outros Usuários, <a id="anchor_L04" href="#anchor_L04">L04</a>: Visualizar Minhas Reclamações, <a id="anchor_L05" href="#anchor_L05">L05</a>: Visualizar Dados Gerais, <a id="anchor_L06" href="#anchor_L06">L06</a>: Visualizar Meus Dados, <a id="anchor_L07" href="#anchor_L07">L07</a>: Responder Reclamação, <a id="anchor_L08" href="#anchor_L08">L08</a>: Avaliar Empresa | O usuário interage com todos os outros elementos do sistema de acordo com suas necessidades. |
+
+
 
 <font size="3"><p style="text-align: center">Autor: [CÉSAR, Julio. 2024](https://github.com/Julio1099).</p></font>
 </figure>
