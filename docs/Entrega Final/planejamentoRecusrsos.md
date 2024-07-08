@@ -38,25 +38,13 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 
 | Ponto de Controle - Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 2-1. Personas | 03/04 | 17/04 | [Guilherme](https://github.com/gmeister18)
- e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)
-  |
-| 2-2. Storytelling |  03/04 | 17/04 | [Guilherme](https://github.com/gmeister18)
- e [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)
- |
-| 2-3. Questionário | 03/04 | 17/04 |  [Guilherme](https://github.com/gmeister18)
- e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)
- |
-| 2-4. Elicitação de Requisitos | 03/04 | 17/04 | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)
- | [Igor](https://github.com/alladin-51), [Guilherme](https://github.com/gmeister18)
- |
+| 2-1. Personas | 03/04 | 17/04 | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 2-2. Storytelling |  03/04 | 17/04 | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)|
+| 2-3. Questionário | 03/04 | 17/04 |  [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)|
+| 2-4. Elicitação de Requisitos | 03/04 | 17/04 | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)| [Igor](https://github.com/alladin-51), [Guilherme](https://github.com/gmeister18)|
 | 2-5. First Things First | 03/04 | 17/04 | Todos | Todos |
-| 2-6. In or Out | 03/04 | 17/04 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)
- | [Júlio](https://github.com/Julio1099)
-, [Matheus](https://github.com/matferreira1) |
-| 2-7. MoSCoW | 03/04 | 17/04 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)
- | [Júlio](https://github.com/Julio1099)
-, [Matheus](https://github.com/matferreira1) |
+| 2-6. In or Out | 03/04 | 17/04 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)| [Júlio](https://github.com/Julio1099), [Matheus](https://github.com/matferreira1) |
+| 2-7. MoSCoW | 03/04 | 17/04 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)| [Júlio](https://github.com/Julio1099), [Matheus](https://github.com/matferreira1) |
 | 2-8. Gravação da apresentação | 14/04 | 17/04 | Todos | Todos |
 | 2-9. Correções do Ponto de Controle anterior | 14/04 | 17/04 | Todos | Todos |
 <div><p>Tabela 3 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18)
