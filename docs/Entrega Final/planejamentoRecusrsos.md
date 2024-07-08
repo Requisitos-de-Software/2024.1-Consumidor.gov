@@ -14,10 +14,6 @@ No início do desenvolvimento do projeto, o grupo se reuniu em prol de desenvolv
 
 A tabela 2 abaixo sintetiza o [cronograma planejado]() dos artefatos:
 
-<details>
-
-<summary>Tabela 2</summary>
-
 | Ponto de Controle - Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
 | 1-1. Planejamento do projeto | 30/03 | 31/03 |  Todos  | Todos |
@@ -62,6 +58,3 @@ A tabela 2 abaixo sintetiza o [cronograma planejado]() dos artefatos:
 | 6-3. Gravação da apresentação | 17/06 | 17/06 | Todos | Todos |
 | 6-4. Correções do Ponto de Controle anterior | 11/06 | 15/06 |  Rodrigo | Guilherme |
 <div><p>Tabela 2 - Planejamento dos artefatos. (MEISTER, Guilherme. 2024).</p></div>
-
-</details>
-<br>
