@@ -38,7 +38,7 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 
 | Ponto de Controle - Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 2-1. Personas | 03/04 | 17/04 | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo) |
+| 2-1. Personas | 03/04 | 17/04 | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05)[Rodrigo ](https://github.com/rodrigogontijoo) |
 | 2-2. Storytelling |  03/04 | 17/04 | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)|
 | 2-3. Questionário | 03/04 | 17/04 |  [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1)  | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)|
 | 2-4. Elicitação de Requisitos | 03/04 | 17/04 | [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)| [Igor](https://github.com/alladin-51), [Guilherme](https://github.com/gmeister18)|
@@ -47,57 +47,40 @@ As tabelas abaixo sintetizam o [cronograma planejado]() dos artefatos:
 | 2-7. MoSCoW | 03/04 | 17/04 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)| [Júlio](https://github.com/Julio1099), [Matheus](https://github.com/matferreira1) |
 | 2-8. Gravação da apresentação | 14/04 | 17/04 | Todos | Todos |
 | 2-9. Correções do Ponto de Controle anterior | 14/04 | 17/04 | Todos | Todos |
-<div><p>Tabela 3 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18)
-. 2024).</p></div>
+<div><p>Tabela 3 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
 
 ## Entrega 3 - Modelagem de Requisitos
 
 | Ponto de Controle - Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 3-1. Casos de uso | 14/05 | 20/05 | [Guilherme](https://github.com/gmeister18)
-, [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) |
-| 3-2. Cenários |  14/05 | 20/05 | [Igor](https://github.com/alladin-51), [Rodrigo ](https://github.com/rodrigogontijoo)
- | [Guilherme](https://github.com/gmeister18)
- |
-| 3-3. Léxico | 14/05 | 20/05 | [Júlio](https://github.com/Julio1099)
- | [Matheus](https://github.com/matferreira1) |
-| 3-4. Especificação suplementar | 14/05 | 20/05 | [Henrique Galdino](https://github.com/hgaldino05)  | [Rodrigo ](https://github.com/rodrigogontijoo)
- |
+| 3-1. Casos de uso | 14/05 | 20/05 | [Guilherme](https://github.com/gmeister18), [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) |
+| 3-2. Cenários |  14/05 | 20/05 | [Igor](https://github.com/alladin-51), [Rodrigo ](https://github.com/rodrigogontijoo) | [Guilherme](https://github.com/gmeister18)|
+| 3-3. Léxico | 14/05 | 20/05 | [Júlio](https://github.com/Julio1099)| [Matheus](https://github.com/matferreira1) |
+| 3-4. Especificação suplementar | 14/05 | 20/05 | [Henrique Galdino](https://github.com/hgaldino05)  | [Rodrigo ](https://github.com/rodrigogontijoo)|
 | 3-5. Gravação da apresentação | 15/05 | 20/05 | Todos | Todos |
-| 3-6. Correções do Ponto de Controle anterior | 14/05 | 13/05 | Todos | [Guilherme](https://github.com/gmeister18)
- |
-<div><p>Tabela 4 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18)
-. 2024).</p></div>
+| 3-6. Correções do Ponto de Controle anterior | 14/05 | 13/05 | Todos | [Guilherme](https://github.com/gmeister18)|
+<div><p>Tabela 4 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
 
 ## Entrega 4 - Modelagem de Requisitos Ágil
 
 | Ponto de Controle - Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| 4-1. Histórias de usuário | 22/05 | 27/05 | [Guilherme](https://github.com/gmeister18)
-, [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) |
-| 4-2. Backlog |  22/05 | 27/05 |  [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)
- | [Igor](https://github.com/alladin-51) |
-| 4-3. NFR Framework | 22/05 | 27/05 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)
-  | [Guilherme](https://github.com/gmeister18)
- |
+| 4-1. Histórias de usuário | 22/05 | 27/05 | [Guilherme](https://github.com/gmeister18), [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) |
+| 4-2. Backlog |  22/05 | 27/05 |  [Henrique Galdino](https://github.com/hgaldino05), [Rodrigo ](https://github.com/rodrigogontijoo)| [Igor](https://github.com/alladin-51) |
+| 4-3. NFR Framework | 22/05 | 27/05 | [Igor](https://github.com/alladin-51), [Júlio](https://github.com/Julio1099)| [Guilherme](https://github.com/gmeister18)|
 | 4-4. Gravação da apresentação | 27/05 | 27/05 | Todos | Todos |
 | 4-5. Correções do Ponto de Controle anterior | 23/05 | 24/05 | Todos | [Matheus](https://github.com/matferreira1) |
-<div><p>Tabela 5 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18)
-. 2024).</p></div>
+<div><p>Tabela 5 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação - Grupo 1
 
 | Ponto de Controle - Atividade | Início | Fim | Autores | Revisores |
 |-----------|--------|-----|---------|-----------|
-| (5.1)-1. Verificação de requisitos 1 | 30/05 | 09/06 | [Guilherme](https://github.com/gmeister18)
-, [Igor](https://github.com/alladin-51)  | [Henrique Galdino](https://github.com/hgaldino05), [Júlio](https://github.com/Julio1099)
- |
-| (5.1)-2. Validação de requisitos 1 | 30/05 | 09/06 | [Henrique Galdino](https://github.com/hgaldino05), [Júlio](https://github.com/Julio1099)
- | [Igor](https://github.com/alladin-51), [Matheus](https://github.com/matferreira1)  |
+| (5.1)-1. Verificação de requisitos 1 | 30/05 | 09/06 | [Guilherme](https://github.com/gmeister18), [Igor](https://github.com/alladin-51)  | [Henrique Galdino](https://github.com/hgaldino05), [Júlio](https://github.com/Julio1099)|
+| (5.1)-2. Validação de requisitos 1 | 30/05 | 09/06 | [Henrique Galdino](https://github.com/hgaldino05), [Júlio](https://github.com/Julio1099)| [Igor](https://github.com/alladin-51), [Matheus](https://github.com/matferreira1)  |
 | (5.1)-3. Gravação da apresentação | 10/06 | 10/06 | Todos | Todos |
 | (5.1)-4. Correções do Ponto de Controle anterior | 30/05 | 04/06 | Todos | Todos |
-<div><p>Tabela 6 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18)
-. 2024).</p></div>
+<div><p>Tabela 6 - Planejamento dos artefatos. (MEISTER, [Guilherme](https://github.com/gmeister18). 2024).</p></div>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Grupo 8
 
