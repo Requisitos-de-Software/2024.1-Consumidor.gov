@@ -96,6 +96,7 @@ Além dos requisitos funcionais, foram identificados alguns requisitos não func
 
 <div align="center">
 <figcaption align="left">Tabela 3: Requisitos não funcionais identificados através da introspecção (Autor: GALDINO, Henrique 2024)</figcaption>
+</div>
 
 ## Bibliografia
 
