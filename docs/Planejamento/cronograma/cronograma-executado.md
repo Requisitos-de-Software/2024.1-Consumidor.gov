@@ -78,6 +78,17 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 
 #### Tabela 4 - Itens realizados Ponto de Controle 4. (Autor: GALDINO, Henrique 2024).
 
+## Ponto de Controle 5.1
+A Tabela 5 mostra as atividades realizadas do Ponto de Controle 5, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Verificação de requisitos do [Grupo 1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/apresenta%C3%A7oes/) | 30/05 | 09/06 | 09/06 | Todos | Todos  |
+| Gravação da apresentação | 09/06 | 09/06 | 09/06 | Todos | Todos  |
+| Correção dos artefatos passados | 30/05 | 05/06 | 05/06 | Todos | Todos  |
+
+
+#### Tabela 5 - Itens realizados Ponto de Controle 5.1 (Autor: Matheus Ferreira, 2024).
 ---
 
 ### Bibliografia
