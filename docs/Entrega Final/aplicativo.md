@@ -18,3 +18,17 @@ O Consumidor.gov.br é uma plataforma online criada pelo governo brasileiro com 
 
 ### Funcionalidades
 
+Existem diverssas funcionalidades no aplicativo , entretanto, as principais funcionalidades são:
+
+- Registro de reclamações: Os consumidores podem registrar suas reclamações de forma simples e rápida, diretamente na plataforma.
+- Resposta das empresas: As empresas têm um prazo de até 10 dias para responder às reclamações dos consumidores.
+- Acompanhamento de reclamações: Os consumidores podem acompanhar o andamento de suas reclamações, desde o registro até a resposta final da empresa.
+- Avaliação das respostas: Os consumidores podem avaliar a resposta das empresas e informar se o problema foi resolvido satisfatoriamente.
+- Consulta pública: Permite que qualquer pessoa consulte o histórico de reclamações e respostas, ajudando na tomada de decisões de compra.
+- Estatísticas: Oferece estatísticas sobre as reclamações registradas, facilitando a análise do desempenho das empresas e dos principais problemas enfrentados pelos consumidores.
+
+
+## Histórico de Versões
+| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 07/07/2024 | `1.0` | Crinado o doc | [Igor Thiago](https://github.com/Alladin-51) | 07/07/2023 | [Júlio César](https://github.com/Julio1099) |
