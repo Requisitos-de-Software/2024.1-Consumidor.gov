@@ -27,20 +27,6 @@ O protótipo, desenvolvido com o uso da ferramenta [Figma](https://requisitos-de
 
 <p> <b>Protótipo de alta fidelidade</b>: (Autor: FERREIRA, Matheus. 2024).</p>
 
-#### Validação com cliente
-SEGUE A ESTRUTURA PORÉM FALTA ADICIONAR A ENTREVISTA
-
-| <p align="center">Participante</p> | <p align="center">Avaliador</p> | <p align="center">Data</p> | <p align="center">Horário</p> | <p align="center">Local</p> |
-| :----------: | :-------: | :--: | :-----: | :---: |
-| Aldo Felipe | Henrique Galdino  | 01/07/2024 | 19h | Microsoft Teams |
-<figcaption align='center'> Tabela 1: Dados da avaliação 1 (Autor: GALDINO, Henrique. 2024)</figcaption>
-
-<iframe width="750" height="422" src="https://www.youtube.com/embed/K4xbAje3134" title="Validação protótipo Henrique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div align="center">
-<p> <b>Vídeo 1</b>: gravação da entrevista 1 (Autor: GALDINO, Henrique. 2024).</p>
-</div>
-
 
 ## Bibliografia
 - Prototipagem: como funciona e sua importância para área de TI.  Disponível em: <https://kenzie.com.br/blog/prototipagem/#:~:text=O%20que%20%C3%A9%20prototipagem%3F&text=Prototipagem%20%C3%A9%20a%20etapa%20do,etapa%20de%20aprova%C3%A7%C3%A3o%20e%20valida%C3%A7%C3%A3o.>. Acesso em: 28 jun. 2024.
