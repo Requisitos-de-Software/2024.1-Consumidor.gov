@@ -3,7 +3,7 @@
 ## Introdução
 Este documento visa consolidar e sintetizar as verificações efetuadas nos artefatos produzidos tanto pelo nosso próprio projeto como no projeto do [Grupo 1](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao). 
 
-## Metodolgoia
+## Metodologia
 
 O método utilizado foi a técnica de inspeção de Fagan<a id="REF1" href="#anchor_1"> [1]</a>. 
 
