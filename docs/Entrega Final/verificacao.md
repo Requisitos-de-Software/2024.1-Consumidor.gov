@@ -32,7 +32,9 @@ A estratégia de planejamento adotada envolveu a verificação de cada artefato 
 | [Backward](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pós-Rastreabilidade/backward/) | [Júlio Cesar](https://github.com/Julio1099) | [Igor Thiago](https://github.com/alladin51) | 
 | [Forward](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pós-Rastreabilidade/forward/) | [Júlio Cesar](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05) | 
 
-
+<div align="center">
+<figcaption align="center">Tabela 01: Autores e Revisores da verificação do próprio grupo (Autor: Rodrigo Gontijo)</figcaption>
+</div>
 
 ## Verificação do Grupo 1
 
@@ -55,8 +57,9 @@ A estratégia de planejamento adotada envolveu a verificação de cada artefato 
 | [Histórias de Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/) | [Guilherme Meister](https://github.com/gmeister18) |
 | [Backlog](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/) | [Matheus Ferreira](https://github.com/matferreira1) |
 
-
-
+<div align="center">
+<figcaption align="center">Tabela 02: Verificações do Grupo 1 (Autor: Rodrigo Gontijo)</figcaption>
+</div>
 
 ## Referências Bibliográficas
 
@@ -68,4 +71,9 @@ A estratégia de planejamento adotada envolveu a verificação de cada artefato 
 
 | Versão | Data de execução | Data de revisão |  Descrição  | Autor | Revisor  |
 | :----: | :--------------: | :-------------: | :---------: | :---: | :------: |
+| 1.1    | 01/07/2024       | 01/07/2024      | Adicionando legendas das tabelas  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
 | 1.0    | 01/07/2024       | 01/07/2024      | Criação do documento  | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
+
+<div align="center">
+<figcaption align="center">Tabela 03: Histórico de Versões (Autor: Rodrigo Gontijo)</figcaption>
+</div>
