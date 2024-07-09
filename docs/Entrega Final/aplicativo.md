@@ -9,6 +9,21 @@ Este documento tem o objetivo de descrever o aplicativo escolhido pelo grupo mai
 
 O Consumidor.gov.br é uma plataforma online criada pelo governo brasileiro com o objetivo de promover a resolução de conflitos entre consumidores e empresas de forma rápida e desburocratizada. A plataforma é gerida pela Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública e funciona como um canal direto para que os consumidores registrem suas reclamações e obtenham respostas das empresas. O Consumidor.gov.br é uma ferramenta essencial para a defesa dos direitos dos consumidores no Brasil, promovendo uma relação mais equilibrada e transparente entre consumidores e empresas.
 
+## Critérios para escolha
+
+- Ser Open Source e Gratuito
+- Escopo bem definido
+- Aplicativo ainda não trabalhado na disciplina de Requisitos de Software
+- Facilidade de acesso aos usuários do aplicativo
+
+## Motivações para a Escolha
+
+- Complexidade Adequada ao Escopo da Disciplina: O aplicativo Consumidor.gov.br apresenta uma complexidade que se alinha bem com o escopo da disciplina. Ele possui uma variedade de funcionalidades e fluxos de usuário que são desafiadores o suficiente para um projeto acadêmico, sem serem excessivamente complexos. Isso proporciona uma oportunidade equilibrada para aplicar e expandir nossos conhecimentos na análise e melhoria de sistemas.
+
+- Público-Alvo Amplo e Diversificado: O público-alvo do Consumidor.gov.br é muito abrangente, englobando consumidores de diferentes perfis e faixas etárias que buscam resolver conflitos com empresas. Este aspecto facilita o acesso a diferentes tipos de feedback e a realização de pesquisas de usuário, oferecendo uma base rica para a coleta de dados e análise no projeto.
+
+- Potencial para Desenvolvimento de Soluções Práticas e Inovadoras: O Consumidor.gov.br é uma plataforma com espaço para melhorias e inovações, o que possibilita ao grupo desenvolver soluções práticas e criativas. A análise das funcionalidades existentes e a proposta de novos recursos ou melhorias técnicas podem resultar em contribuições valiosas para o aprimoramento do aplicativo.
+
 ### Objetivos do aplicativo
 
 - Facilitar a resolução de conflitos: Permite que os consumidores registrem suas reclamações e recebam respostas das empresas em um prazo determinado.
