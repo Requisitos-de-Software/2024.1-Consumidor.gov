@@ -20,7 +20,9 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/telegram.png?raw=true" width="200" />     | O Telegram é um serviço de mensagens instantâneas baseado na nuvem, o qual é o canal oficial de comunicação da turma da disciplina, sendo a principal fonte de informações acerca das atividades realizadas na mesma.[⁹](#ancora9)                                                                                                                                                                                           |                                                                                                                              
 | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/whatsapp.png?raw=true" width="200" />     | O Whatsapp é um serviço de mensagens instantâneas baseado na nuvem, no qual foi escolhido como a principal ferramenta de comunicação dos integrantes do projeto, possibilitando a criação de enquetes, compartilhamento de arquivos e fotos, além de estabelecer uma comunição rápida entre os entes.[¹⁰](#ancora10)                                                                                                                                                                                           |   
 | <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/Obs-logo.png?raw=true" width="200" />     | O OBS Studio é um software de código aberto gratuito para gravação e transmissão de vídeo ao vivo. Ele permite que você capture sua tela, webcam e áudio, e transmita para plataformas como Twitch, YouTube e Facebook.[¹¹](#ancora11)                          
-| <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/logo-canva.png?raw=true" width="200" />     | O Canva é uma ferramenta de design gráfico online que permite criar uma variedade de conteúdos visuais, como cartões, apresentações, imagens para redes sociais, entre outros. Ele é amplamente utilizado para criar material visual para o projeto, como banners, infográficos e layouts de apresentações.[¹²](#ancora12) |                                                                                                                                                                                                                                                                                                
+| <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/logo-canva.png?raw=true" width="200" />     | O Canva é uma ferramenta de design gráfico online que permite criar uma variedade de conteúdos visuais, como cartões, apresentações, imagens para redes sociais, entre outros. Ele é amplamente utilizado para criar material visual para o projeto, como banners, infográficos e layouts de apresentações.[¹²](#ancora12) |
+| <img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="200" />     | This person does not exist: Criação de imagens de pessoas falsas para as Personas.[13](#ancora13) |         
+| <img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/Meet.png?raw=true?raw=true" width="200" />     | Meet é uma ferramenta de reuniões secundária.[14](#ancora14) |                                                                                                                                                                                                                                                                                         
 
 <div align="center">
 <figcaption align="left">Tabela 1: Lista de ferramentas utilizadas (Autor: Autoria própria)</figcaption>
@@ -42,7 +44,8 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 > - <a id="ancora10"></a>[10] Whatsapp. Acesso em: 29 de mar. de 2024. Disponível em: <https://www.whatsapp.com>
 > - <a id="ancora11"></a>[11] OBS Studio. Acesso em: 02 de abr. de 2024. Disponível em: <https://obsproject.com/pt-br>
 > - <a id="ancora12"></a>[12] Canva. Acesso em: 04 de abr. de 2024. Disponível em: <https://www.canva.com/>
-
+> - <a id="ancora13"></a>[13] This person does not exist. Acesso em: 08 de jun. de 2024. Disponível em: <https://this-person-does-not-exist.com/en./>
+> - <a id="ancora14"></a>[14] Google Meet. Acesso em: 08 de jun. de 2024. Disponível em: <https://www.googlemmet.com/>
 
 
 
@@ -58,7 +61,8 @@ Na tabela abaixo, estão listadas as ferramentas utilizadas:
 | Versão | Data de execução | Data de revisão |  Descrição            | Autor(es)         | Revisor(es)  |
 | :------: | :----------: | :--------: | :--------------------: | :-------------: | :----------: |
 | `1.0`  | 30/03/2024 | 30/03/2024 | Criação do documento | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo | Guilherme, Henrique, Igor, Júlio, Matheus, Rodrigo |
-| `1.1`  | 13/04/2024 | **/04/2024 | Atualização do documento | [Júlio](https://github.com/Julio1099) | [-----------](https://github.com/) |
+| `1.1`  | 13/04/2024 | **/04/2024 | Atualização do documento | [Júlio](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05) |
+| `1.2`  | 08/07/2024 | 08/07/2024 | Atualização do documento | [Júlio](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05) |
 
 <div align="center">
 <figcaption align="left">Tabela 2: Histórico de versões(Autor: Autoria própria)</figcaption>

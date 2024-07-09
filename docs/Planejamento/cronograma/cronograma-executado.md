@@ -78,6 +78,52 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 
 #### Tabela 4 - Itens realizados Ponto de Controle 4. (Autor: GALDINO, Henrique 2024).
 
+## Ponto de Controle 5.1
+A Tabela 5 mostra as atividades realizadas do Ponto de Controle 5.1, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Verificação de requisitos do [Grupo 1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/apresenta%C3%A7oes/) | 30/05 | 09/06 | 09/06 | Todos | Todos  |
+| Gravação da apresentação | 09/06 | 09/06 | 09/06 | Todos | Todos  |
+| Correção dos artefatos passados | 30/05 | 05/06 | 05/06 | Todos | Todos  |
+
+
+#### Tabela 5 - Itens realizados Ponto de Controle 5.1 (Autor: Matheus Ferreira, 2024).
+---
+
+## Ponto de Controle 6
+A Tabela 6 mostra as atividades realizadas do Ponto de Controle 6, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+|[Backward From](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/backward/) | 11/06 | 17/06 | 17/06 | Todos | Todos  |
+|[Forward From](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/forward/) | 11/06 | 17/06 | 17/06 | Todos | Todos  |
+|[Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/P%C3%B3s-Rastreabilidade/matriz/) | 11/06 | 17/06 | 17/06 | Todos | Todos  |
+| Gravação da apresentação | 17/06 | 17/06 | 17/06 | Todos | Todos  |
+| Correção dos artefatos passados | 11/06 | 14/06 | 14/06 | Todos | Todos  |
+
+
+#### Tabela 6 - Itens realizados Ponto de Controle 6 (Autor: Matheus Ferreira, 2024).
+---
+
+## Ponto de Controle 5.2
+A Tabela 7 mostra as atividades realizadas do Ponto de Controle 5.2, com seus respectivos autores, revisores e datas.
+
+| Atividade | Início | Fim | Data limite |Autores | Revisores |
+|-----------|--------|-----|-----|---------|-----------|
+| Verificação de requisitos do [Grupo 8](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verifica%C3%A7%C3%A3o/Grupo%208/Entrega%201%20-%20Planejamento/planejamento/) | 19/06 | 24/06 | 24/06 | Todos | Todos  |
+| [Comprovação Informal](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/ValidacaoInformal/) | 28/06 | 30/06 | 30/06 | [Guilherme Meister](https://github.com/gmeister18) |[Henrique Galdino](https://github.com/hgaldino05)  |
+| [Protótipo Modo Escuro e Libras](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Acessibilidade/) | 28/06 | 30/06 | 30/06 | [Guilherme Meister](https://github.com/gmeister18) |[Henrique Galdino](https://github.com/hgaldino05)  |
+| [Protótipo Anexar Foto ao Perfil](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Anexar/) | 28/06 | 01/07 | 01/07 | [Julio Cesar](https://github.com/Julio1099) |[Henrique Galdino](https://github.com/hgaldino05)  |
+| [Protótipo Filtrar Minhas Reclamações](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/MinhaReclamacao/) | 07/07 | 07/07 | 07/07 | [Igor Thiago](https://github.com/alladin-51) |[Julio Cesar](https://github.com/Julio1099) |
+| [Protótipo Notificação Status](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Notificacao/) | 01/07 | 01/07 | 01/07 | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin-51) |
+| [Protótipo Filtrar Reclamações](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/Responder/) | 01/07 | 01/07 | 01/07 | [Henrique Galdino](https://github.com/hgaldino05)| [Julio Cesar](https://github.com/Julio1099) |
+| [Protótipo Ver Dados](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Valida%C3%A7%C3%A3o/Prototipagem/VerDados/) | 03/07 | 03/07 | 03/07 | [Matheus Ferreira](https://github.com/matferreira1)| [Igor Thiago](https://github.com/alladin-51) |
+| Gravação da apresentação | 01/07 | 01/07 | 01/07 | Todos | Todos  |
+| Correção dos artefatos passados | 27/06 | 29/06 | 29/06 | Todos | Todos  |
+
+
+#### Tabela 7 - Itens realizados Ponto de Controle 5.2 (Autor: Matheus Ferreira, 2024).
 ---
 
 ### Bibliografia
@@ -88,6 +134,7 @@ A Tabela 3 mostra as atividades realizadas do Ponto de Controle 3, com seus resp
 ### Histórico de versão
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
+| `1.5` | 08/07 | 08/07 | Atualizando cronograma (entregas 5.1,5.2 e 6)| [Matheus Ferreira](https://github.com/matferreira1) |[Igor Thiago](https://github.com/alladin-51)|
 | `1.4` | 27/05 | 27/05 | Atualizando cronograma (entrega 4)| [Henrique Galdino](https://github.com/hgaldino05) | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.3` | 21/04 | 21/04 | Atualizando cronograma (entrega 3)| [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51), [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
 | `1.2` | 21/04 | 21/04 | Atualizando cronograma (entrega 2)| [Henrique Galdino](https://github.com/hgaldino05) | [Igor Thiago](https://github.com/alladin-51), [Rodrigo Gontijo](https://github.com/rodrigogontijoo)|
