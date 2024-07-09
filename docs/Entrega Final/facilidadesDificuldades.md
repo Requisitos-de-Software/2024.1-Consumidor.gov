@@ -65,10 +65,21 @@ Este documento tem como objetivo apresentar as facilidades e dificuldades encont
 
 - **Tempo**: Acredito que uma das dificuldades durante os desenvolvimento do projeto foi a conciliação de horários para a realização das tarefas. Outra dificuldade foi o tempo para as entregas, em particular acredito que foi difícil manter a constância que a disciplina exige.
 
+## Rodrigo Gontijo
+
+### Facilidades
+
+- **Membros da equipe**: A maior facilidade foi trabalhar com uma equipe organizada. Não tivemos problemas em dividir as tarefas e cumprir os prazos como um grupo.
+
+### Dificuldades
+
+- **Conflitos de Horário**: A dificuldade mais notável foi a quantidade de conflitos de horários, o que dificultou a realização das tarefas que necessitavam ser feitas em conjunto, incluindo os artefatos e as gravações.
+
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
+| 08/07/2024 | 1.5 | Adicionando facilidades e dificuldades Rodrigo | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) | [Igor Thiago](https://github.com/alladin51) |
 | 08/07/2024 | 1.4 | Adicionando facilidades e dificuldades Guilherme | [Guilherme Meister](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 08/07/2024 | 1.3 | Adicionando facilidades e dificuldades Júlio | [Júlio Cesar](https://github.com/Julio1099) | [Henrique Galdino](https://github.com/hgaldino05)|
 | 08/07/2024 | 1.2 | Adicionando facilidades Matheus | [Matheus Ferreira](https://github.com/matferreira1) | [Júlio Cesar](https://github.com/Julio1099)|
