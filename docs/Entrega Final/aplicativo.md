@@ -17,7 +17,7 @@ Figura 1 - Logo do Consumidor.gov
 
 ## Critérios para escolha
 
-- Ser Open Source e Gratuito
+- Aplicativo governamental e Gratuito
 - Escopo bem definido
 - Aplicativo ainda não trabalhado na disciplina de Requisitos de Software
 - Facilidade de acesso aos usuários do aplicativo
