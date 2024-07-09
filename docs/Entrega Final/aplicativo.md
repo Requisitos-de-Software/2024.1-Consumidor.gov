@@ -9,6 +9,12 @@ Este documento tem o objetivo de descrever o aplicativo escolhido pelo grupo mai
 
 O Consumidor.gov.br é uma plataforma online criada pelo governo brasileiro com o objetivo de promover a resolução de conflitos entre consumidores e empresas de forma rápida e desburocratizada. A plataforma é gerida pela Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública e funciona como um canal direto para que os consumidores registrem suas reclamações e obtenham respostas das empresas. O Consumidor.gov.br é uma ferramenta essencial para a defesa dos direitos dos consumidores no Brasil, promovendo uma relação mais equilibrada e transparente entre consumidores e empresas.
 
+<div align="center">
+<img src="https://github.com/Requisitos-de-Software/2024.1-Consumidor.gov/blob/main/assets/img/logos/logo.png?raw=true" aly="Consumidor.gov_logo" style="width: 300px">
+</div>
+
+Figura 1 - Logo do Consumidor.gov
+
 ## Critérios para escolha
 
 - Ser Open Source e Gratuito
