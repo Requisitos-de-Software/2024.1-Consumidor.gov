@@ -18,24 +18,27 @@ As tabelas abaixo sintetizam o cronograma planejado dos artefatos:
 | Ponto de Controle - Atividade | Descrição do Artefato | Autores | Revisores |
 |-------------------------------|-----------------------|---------|-----------|
 | [Cronograma Planejado](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/cronograma/cronograma-planejado/) | Planejamento das atividades e suas datas | Todos | Todos |
-| [Cronograma Realizado](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/cronograma/cronograma-executado/) | Registro das atividades executadas e suas datas | [Todos] | [Todos](#revisores) |
-| [Lista de aplicativos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/sites-avaliados/) | Aplicativos utilizados no projeto | [Todos](#autores) | [Todos](#revisores) |
-| [Ferramentas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/ferramentas/) | Ferramentas utilizadas no desenvolvimento do projeto | [Todos](#autores) | [Todos](#revisores) |
-| [Rich picture](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pr%C3%A9%20Rastreabilidade/rich-picture/) | Diagrama representativo do projeto | [Todos](#autores) | [Todos](#revisores) |
-| [Atas das Reuniões](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Atas%20das%20Reuni%C3%B5es/entrega1-r1/) | Registro das reuniões do grupo | [Todos](#autores) | [Todos](#revisores) |
-| [Vídeo de apresentação](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Apresenta%C3%A7%C3%B5es/apresentacao1/) | Apresentação em vídeo do projeto | [Todos](#autores) | [Todos](#revisores) |
+| [Cronograma Realizado](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/cronograma/cronograma-executado/) | Registro das atividades executadas e suas datas | Todos | Todos |
+| [Lista de aplicativos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/sites-avaliados/) | Aplicativos avaliados | Todos | Todos |
+| [Ferramentas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Planejamento/ferramentas/) | Ferramentas utilizadas no desenvolvimento do projeto | Todos | Todos |
+| [Rich picture](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Pr%C3%A9%20Rastreabilidade/rich-picture/) | Diagrama representativo do projeto | Todos | Todos |
+| [Atas das Reuniões](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Atas%20das%20Reuni%C3%B5es/entrega1-r1/) | Registro das reuniões do grupo | Todos | Todos |
+| [Vídeo de apresentação](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Apresenta%C3%A7%C3%B5es/apresentacao1/) | Apresentação em vídeo do projeto | Todos | Todos |
 <div><p>Tabela 1 - Planejamento dos artefatos. (Matheus Ferreira. 2024).</p></div>
 
 ## Entrega 2 - Elicitação
 
 | Ponto de Controle - Atividade | Descrição do Artefato | Autores | Revisores |
 |-------------------------------|-----------------------|---------|-----------|
+| [Perfil de usuário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/PerfildeUsuario/) | Definição do perfil de usuário | [Guilherme](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05) |
 | [Personas](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Personas/) | Definição de perfis de usuários fictícios | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo](https://github.com/rodrigogontijoo) |
 | [Storytelling](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Storytelling/) | Narrativa ilustrando o uso do sistema pelos usuários | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo](https://github.com/rodrigogontijoo) |
 | [Questionário](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Question%C3%A1rio/) | Instrumento de coleta de dados dos usuários | [Guilherme](https://github.com/gmeister18) e [Matheus](https://github.com/matferreira1) | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo](https://github.com/rodrigogontijoo) |
-| [Elicitação de Requisitos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/requisitos-elicitados/) | Processo de levantamento dos requisitos do sistema | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo](https://github.com/rodrigogontijoo) | [Igor](https://github.com/alladin-51) e [Guilherme](https://github.com/gmeister18) |
-| [First Things First](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/First%20things%20first/) | Priorização inicial dos requisitos | Todos | Todos |
-| [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/) | Técnica de decisão de escopo | [Igor](https://github.com/alladin-51) e [Júlio](https://github.com/Julio1099) | [Júlio](https://github.com/Julio1099) e [Matheus](https://github.com/matferreira1) |
+| [Análise de documentos](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/analiseDoc/) | Técnica de elicitação de requisitos | [Guilherme](https://github.com/gmeister18) | [Henrique Galdino](https://github.com/hgaldino05) |
+| [Introspecção](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/introspec/) | Técnica de elicitação de requisitos | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo](https://github.com/rodrigogontijoo) | [Guilherme](https://github.com/gmeister18) e [Igor](https://github.com/alladin-51) |
+| [Requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/requisitos-elicitados/) | Lista dos requisitos elicitados | [Henrique Galdino](https://github.com/hgaldino05) e [Rodrigo](https://github.com/rodrigogontijoo) | [Igor](https://github.com/alladin-51) e [Guilherme](https://github.com/gmeister18) |
+| [First Things First](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/First%20things%20first/) | Técnica de priorização de requisitos | Todos | Todos |
+| [In or Out](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Elicita%C3%A7%C3%A3o/Prioriza%C3%A7%C3%A3o/In%20or%20out/) | Técnica de priorização de requisitos | [Igor](https://github.com/alladin-51) e [Júlio](https://github.com/Julio1099) | [Júlio](https://github.com/Julio1099) e [Matheus](https://github.com/matferreira1) |
 | [Gravação da apresentação](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Apresenta%C3%A7%C3%B5es/apresentacao2/) | Apresentação em vídeo da entrega | Todos | Todos |
 <div><p>Tabela 2 - Planejamento dos artefatos. (Matheus Ferreira. 2024).</p></div>
 
@@ -65,7 +68,7 @@ As tabelas abaixo sintetizam o cronograma planejado dos artefatos:
 | Ponto de Controle - Atividade | Descrição do Artefato | Autores | Revisores |
 |-------------------------------|-----------------------|---------|-----------|
 | [Verificação de requisitos 5.1](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Verifica%C3%A7%C3%A3o/Grupo%201%20-%20DOU/Entrega%201%20-%20Planejamento/apresenta%C3%A7oes/) | Revisão do grupo 1 | [Guilherme](https://github.com/gmeister18), [Igor](https://github.com/alladin-51) | [Henrique Galdino](https://github.com/hgaldino05), [Júlio](https://github.com/Julio1099) |
-| [Gravação da apresentação](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Apresenta%C3%A7%C3%B5es/apresentacao5-1/) | Apresentação em vídeo da entrega | Todos | #verificacao-de-requisitos-2Todos |
+| [Gravação da apresentação](https://requisitos-de-software.github.io/2024.1-Consumidor.gov/Apresenta%C3%A7%C3%B5es/apresentacao5-1/) | Apresentação em vídeo da entrega | Todos | Todos |
 <div><p>Tabela 5 - Planejamento dos artefatos. (Matheus Ferreira. 2024).</p></div>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação - Grupo 8
